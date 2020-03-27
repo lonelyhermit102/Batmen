@@ -320,6 +320,9 @@ body {
 }
 
 @media (max-width:992px) {
+	.visible {
+		width: 100%;
+	}
 	.container {
 		max-width: 740px;
 	}
